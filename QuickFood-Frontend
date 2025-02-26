@@ -1,4 +1,4 @@
-cd /path/to/your/project
+C:\Users\Lenovo\OneDrive\Desktop\OURPROJECT
 git init
 git add .
 git commit -m "Initial commit"
